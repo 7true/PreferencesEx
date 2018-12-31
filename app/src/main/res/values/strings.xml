@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PreferencesEx</string>
+    <string name="wifi_summary">Wi-Fi turn on</string>
+    <string name="wifi_title">Wi-Fi</string>
+    <string name="hints_summary">Show hints</string>
+    <string name="hints_title">Hints</string>
+</resources>
