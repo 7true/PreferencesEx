@@ -4,4 +4,6 @@
     <string name="wifi_title">Wi-Fi</string>
     <string name="hints_summary">Show hints</string>
     <string name="hints_title">Hints</string>
+    <string name="settings_title">Settings</string>
+    <string name="action_settings">Settings</string>
 </resources>

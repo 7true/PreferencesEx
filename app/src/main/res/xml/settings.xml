@@ -10,4 +10,18 @@
         android:key="hints"
         android:summary="@string/hints_summary"
         android:title="@string/hints_title"/>
+    <EditTextPreference
+        android:key="test_size"
+        android:title="Font size"
+        android:summary="Set new font size"
+        android:defaultValue="14"
+        android:dialogTitle="Enter font size(from 10 to 32)" />
+    <ListPreference
+        android:key="test_style"
+        android:title="Font style"
+        android:summary="Set font style: %s"
+        android:defaultValue="1"
+        android:entries="@array/text_style"
+        android:entryValues="@array/text_style"
+        android:dialogTitle="Choose font style" />
 </PreferenceScreen>
